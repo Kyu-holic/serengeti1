@@ -1,4 +1,0 @@
-/home              /
-/blog/my-post.php  /blog/my-post
-/news              /blog
-/cuties            https://youthful-archimedes-be8347.netlify.app
